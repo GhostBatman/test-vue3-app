@@ -1,0 +1,29 @@
+{
+  "name": "my-vue-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vueuse/integrations": "^10.8.0",
+    "async-validator": "^4",
+    "axios": "^1.6.7",
+    "bulma": "^0.9.4",
+    "maska": "^2.1.11",
+    "pinia": "^2.1.7",
+    "url": "^0.11.3",
+    "vue": "^3.4.15",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.3",
+    "sass": "^1.71.0",
+    "typescript": "^5.2.2",
+    "vite": "^5.1.0",
+    "vue-tsc": "^1.8.27"
+  }
+}

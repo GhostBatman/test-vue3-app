@@ -1,0 +1,45 @@
+@import "bulma/sass/utilities/initial-variables";
+@import "fonts";
+
+$family-sans-serif: "Tele2 TextSans Web SHORT Regular", sans-serif;
+$family-primary: $family-sans-serif;
+
+$dark: #1F2229;
+$light: #FFFFFF;
+$gray: #8F9399;
+$red: #D72F4B;
+
+@import "bulma/bulma.sass";
+
+.side-indentation {
+  padding-left: 18px;
+  padding-right: 18px;
+}
+
+.page-feature {
+  min-height: 100%;
+  width: 100%;
+  height: 1px;
+  overflow: auto;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.button,
+.button.is-rounded{
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 22px;
+  padding: 13px 35px;
+  height: auto;
+}
+
+.font-stencil {
+  font-family: 'Standard CT Stencil', sans-serif;
+}
+
+.font-tele2 {
+  font-family: 'Tele2 DisplaySerif Web SHORT Bold', sans-serif
+}

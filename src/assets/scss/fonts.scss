@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "Standard CT Stencil";
+  src: local("Standard CT Stencil"), url("@/assets/fonts/StandardCTStencil-Bold.ttf") format("truetype");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Tele2 TextSans Web SHORT Regular";
+  src: url("https://db.onlinewebfonts.com/t/eaede26ebfc025d4b8715790660fbde9.eot");
+  src: url("https://db.onlinewebfonts.com/t/eaede26ebfc025d4b8715790660fbde9.eot?#iefix")format("embedded-opentype"),
+  url("https://db.onlinewebfonts.com/t/eaede26ebfc025d4b8715790660fbde9.woff2")format("woff2"),
+  url("https://db.onlinewebfonts.com/t/eaede26ebfc025d4b8715790660fbde9.woff")format("woff"),
+  url("https://db.onlinewebfonts.com/t/eaede26ebfc025d4b8715790660fbde9.ttf")format("truetype"),
+  url("https://db.onlinewebfonts.com/t/eaede26ebfc025d4b8715790660fbde9.svg#Tele2 TextSans Web SHORT Regular")format("svg");
+}
+
+@font-face {
+  font-family: "Tele2 DisplaySerif Web SHORT Bold";
+  src: url("https://db.onlinewebfonts.com/t/28f76a61deb5c19ef8393eac505462ae.eot");
+  src: url("https://db.onlinewebfonts.com/t/28f76a61deb5c19ef8393eac505462ae.eot?#iefix")format("embedded-opentype"),
+  url("https://db.onlinewebfonts.com/t/28f76a61deb5c19ef8393eac505462ae.woff2")format("woff2"),
+  url("https://db.onlinewebfonts.com/t/28f76a61deb5c19ef8393eac505462ae.woff")format("woff"),
+  url("https://db.onlinewebfonts.com/t/28f76a61deb5c19ef8393eac505462ae.ttf")format("truetype"),
+  url("https://db.onlinewebfonts.com/t/28f76a61deb5c19ef8393eac505462ae.svg#Tele2 DisplaySerif Web SHORT Bold")format("svg");
+}
